@@ -1,0 +1,39 @@
+> Variables
+
+* Variables are nothing but reserved memory locations to store values. It means that when    
+  you create a variable, you reserve some space in the memory.
+
+* Based on the data type of a variable, the interpreter allocates memory and decides what 
+  can be stored in the reserved memory.
+
+> Assigning Values to Variables
+
+* Python variables do not need explicit declaration to reserve memory space. The declaration 
+  happens automatically when you assign a value to a variable. The equal sign (=) is used 
+  to assign values to variables.
+  The operand to the left of the = operator is the name of the variable and the operand to 
+  the right of the = operator is the value stored in the variable.
+
+* counter = 100 # An integer assignment
+  miles = 1000.0 # A floating point
+  name = "John" # A string
+
+  print (counter)
+  >100
+
+  print (miles)
+  >1000.0
+
+  print (name)
+  >John
+
+> Multiple Assignment
+
+  a = b = c = 1
+. Here, an integer object is created with the value 1, and all the three variables are assigned 
+  to the same memory location. You can also assign multiple objects to multiple variables. 
+
+a, b, c = 1, 2, "john"
+
+. Here, two integer objects with values 1 and 2 are assigned to the variables a and b 
+  respectively, and one string object with the value "john" is assigned to the variable c.
