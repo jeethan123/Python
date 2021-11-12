@@ -27,7 +27,7 @@
   print (name)
   >John
 
-> Multiple Assignment
+> Multiple Assignment:-
 
   a = b = c = 1
 . Here, an integer object is created with the value 1, and all the three variables are assigned 
