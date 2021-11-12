@@ -70,8 +70,6 @@ x = 2
 print x
 
 produces the output
-
-1
-2
-
+> 1
+> 2
 Again, the assignment statement produces no output.
