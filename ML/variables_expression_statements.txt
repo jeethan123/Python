@@ -44,7 +44,8 @@ a, b, c = 1, 2, "john"
 * An expression is a combination of operators and operands that is interpreted to produce some other value.
 * Expression is evaluated as per the precedence of its operators.
 
->Types of Expression
+> Types of Expression:-
+
 1)Constant Expressions
 2) Arithmetic Expressions
 3) Integral Expressions
